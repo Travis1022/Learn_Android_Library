@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/ic_tab_project"
+        id="@+id/tab_project"
+        title="项目"
+        />
+    <tab
+        icon="@drawable/ic_tab_search"
+        id="@+id/tab_search"
+        title="搜索"
+        />
+    <tab
+        icon="@drawable/ic_tab_sync"
+        id="@+id/tab_synch"
+        title="同步"
+        />
+    <tab
+        icon="@drawable/ic_tab_more"
+        id="@+id/tab_more"
+        title="更多"
+        />
+</tabs>
